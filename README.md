@@ -1,5 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Will, you can call me Tohru</h1>
-<h3 align="center">Hello, everyone! I'm Will, an 18-year-old with a burning passion for coding, especially in the realm of web development. This summer, I had the incredible opportunity to be a part of All Star Code, an experience that has truly transformed my coding journey. As an All Star Code student, I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges, earning recognition for my dedication and innovative thinking. Beyond just the technical skills, this journey has been about personal growth - expanding my horizons, fostering creativity, and developing critical problem-solving abilities.</h3>
+<h3 align="center">Hello, everyone! I'm Will, with a burning passion for coding, especially in the realm of web development. This summer, I had the incredible opportunity to be a part of a program, an experience that has truly transformed my coding journey. I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges, earning recognition for my dedication and innovative thinking. Beyond just the technical skills, this journey has been about personal growth - expanding my horizons, fostering creativity, and developing critical problem-solving abilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohru-art&label=Profile%20views&color=0e75b6&style=flat" alt="tohru-art" /> </p>
 
@@ -11,14 +10,14 @@
 
 - 🌱 I’m currently learning **HTML, JavaSript, CSS**
 
-- ⚡ Fun fact **I never thought I will be a developper**
+- ⚡ Fun fact **I never thought I will be a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohru-art&show_icons=true&locale=en&layout=compact" alt="tohru-art" /></p>
 
