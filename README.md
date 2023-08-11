@@ -1,5 +1,3 @@
-<hr style="border: 1px solid black;" id="my-hr" class="my-class" aria-label="Horizontal line across the page">
-
 <p align="left">Hello, everyone! I'm Will, with a burning passion for coding, especially in the realm of web development. I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges</p>
 
 <hr></hr>
