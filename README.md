@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning P5, JavaSCript, HTML & CSS
 <!--
 **Tohru-art/Tohru-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
