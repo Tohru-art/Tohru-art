@@ -20,4 +20,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohru-art&show_icons=true&theme=radical)
 
-<p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=tohru-art&" alt="tohru-art" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tohru-art&" alt="tohru-art" /></p>
