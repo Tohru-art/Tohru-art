@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I never thought I will be a developer**
 
+  <hr></hr>
+
  <p align="center"> <img src="https://files.catbox.moe/m5hydn.gif" width="450" height="auto"/> </p>
 
 <h3 align="left"> ⚙ Languages and Tools:</h3>
