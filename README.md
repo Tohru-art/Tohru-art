@@ -1,5 +1,7 @@
 <p align="left">Hello, everyone! I'm Will, with a burning passion for coding, especially in the realm of web development. I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges</p>
 
+<hr></hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohru-art&label=Profile%20views&color=0e75b6&style=flat" alt="tohru-art" /> </p>
 
 <p align="left" style="background-color: navy;"> <a style="background-color: navy;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohru-art" alt="tohru-art" /></a> </p>
