@@ -1,8 +1,9 @@
-<p align="left">Hello, everyone! I'm Will, with a burning passion for coding, especially in the realm of web development. This summer, I had the incredible opportunity to be a part of a program, an experience that has truly transformed my coding journey. I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges, earning recognition for my dedication and innovative thinking. Beyond just the technical skills, this journey has been about personal growth - expanding my horizons, fostering creativity, and developing critical problem-solving abilities.</p>
+<p align="left">Hello, everyone! I'm Will, with a burning passion for coding, especially in the realm of web development. I've been diving headfirst into the world of coding, learning the ins and outs of HTML, CSS, and JavaScript while creating dynamic and visually stunning websites. I've honed my skills through various projects and coding challenges</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohru-art&label=Profile%20views&color=0e75b6&style=flat" alt="tohru-art" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohru-art" alt="tohru-art" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
