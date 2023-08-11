@@ -25,8 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohru-art&show_icons=true&locale=en&layout=compact" alt="tohru-art" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tohru-art&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tohru-art&" alt="tohru-art" /></p>
