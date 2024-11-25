@@ -15,7 +15,7 @@
   <be></br>
   <hr></hr>
 
- <p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--667517975999272064%2F&psig=AOvVaw1b1ccdzMMwhZ9VluzD6io7&ust=1732599077138000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOipr9ng9okDFQAAAAAdAAAAABAZ" width="650" height="auto"/> </p>
+ <p align="center"> <img src="https://i.pinimg.com/originals/9c/18/fd/9c18fdf528054ff9ff7ddfae62ee107a.gif" width="650" height="auto"/> </p>
 
 <h3 align="left"> ⚙ Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
