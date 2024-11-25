@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a Big Project**
+- 🔭 To Infinity and Beyond
 
-- 🌱 I’m currently learning **HTML, JavaSript, CSS**
+- 🌱 Learning CyberSecurity
 
-- ⚡ Fun fact **I never thought I will be a developer**
+- ⚡ Fun fact **!!**
 
   <be></br>
   <hr></hr>
