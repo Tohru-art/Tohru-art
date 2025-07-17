@@ -11,13 +11,13 @@
   I am currently working through several cybersecurity roadmaps, including:
 </p>
 <ul align="left">
-  <li>🔐 Learning the fundamentals of network security and penetration testing.</li>
-  <li>🛡️ Mastering ethical hacking and security tools like Kali Linux and Metasploit.</li>
-  <li>🖥️ Completing projects that involve securing websites and applications.</li>
-  <li>📚 Continuously following and practicing cybersecurity challenges on platforms like Hack The Box and TryHackMe.</li>
+  <li>Learning the fundamentals of network security and penetration testing.</li>
+  <li>Mastering ethical hacking and security tools like Kali Linux and Metasploit.</li>
+  <li>Completing projects that involve securing websites and applications.</li>
+  <li>Following and practicing cybersecurity challenges on platforms like Hack The Box and TryHackMe.</li>
 </ul>
 
-<p align="left">I am excited about the journey ahead as I continue to expand my knowledge and skills in the cybersecurity field. 🚀</p>
+<p align="left">I am excited about the journey ahead as I continue to expand my knowledge and skills in the cybersecurity field.</p>
 
 <hr>
 
