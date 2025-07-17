@@ -17,7 +17,7 @@
   <li>Following and practicing cybersecurity challenges on platforms like Hack The Box and TryHackMe.</li>
 </ul>
 
-<p align="left">I am excited about the journey ahead as I continue to expand my knowledge and skills in the cybersecurity field.</p>
+<p align="left">Follow my Journey!</p>
 
 <hr>
 
