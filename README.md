@@ -26,7 +26,21 @@ Current focus:
 <td valign="top" width="45%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tohru-art&show_icons=true&theme=radical" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohru-art&theme=radical" />
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tohru-art&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+
+<p align="center">
+  <a href="https://will-garlens-pierre.com">Website</a> • 
+  <a href="https://www.linkedin.com/in/will-garlens-pierre">LinkedIn</a> • 
+  <a href="https://github.com/Tohru-art">GitHub</a> • 
+  <a href="https://tryhackme.com/p/DuckMyst">TryHackMe</a>
+</p>
