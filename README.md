@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/h5tjfm.gif" alt="banner" />
+  <img src="https://files.catbox.moe/yvgzn9.gif" alt="banner" />
 </p>
 
 <h1 align="center">Will | Cybersecurity & Python</h1>
