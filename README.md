@@ -11,7 +11,7 @@
 I’m Will. I write Python and explore cybersecurity.  
 Current focus:  
 - Python scripting for security and automation  
-- Network security and penetration testing  
+- Network security and some penetration testing  
 - Ethical hacking labs on TryHackMe and HackTheBox  
 
 ### Tools  
