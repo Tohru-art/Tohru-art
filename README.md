@@ -39,8 +39,8 @@ Current focus:
 
 
 <p align="center">
-  <a href="https://will-garlens-pierre.com">Website</a> • 
-  <a href="https://www.linkedin.com/in/will-garlens-pierre">LinkedIn</a> • 
-  <a href="https://github.com/Tohru-art">GitHub</a> • 
-  <a href="https://tryhackme.com/p/DuckMyst">TryHackMe</a>
+  <a href="https://will-garlens-pierre.com" target="_blank">Website</a> • 
+  <a href="https://www.linkedin.com/in/will-garlens-pierre" target=”_blank”>LinkedIn</a> • 
+  <a href="https://github.com/Tohru-art" target=”_blank”>GitHub</a> • 
+  <a href="https://tryhackme.com/p/DuckMyst" target=”_blank”>TryHackMe</a>
 </p>
