@@ -1,4 +1,9 @@
-<h1 align="center">Will-Garlens Pierre · IT and Cybersecurity Project Portfolio 🔐</h1>
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/will-garlens-pierre/">
+    Will-Garlens Pierre
+  </a>'s IT and Cybersecurity Project Portfolio 🔐
+</h1>
+
 
 <p align="center">
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
