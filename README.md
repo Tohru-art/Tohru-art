@@ -1,32 +1,47 @@
+<h1 align="center">Will Garlens-Pierre · Cybersecurity & Python</h1>
+
 <p align="center">
-  <img src="https://files.catbox.moe/yvgzn9.gif" alt="banner" />
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 </p>
 
-<h1 align="center">Will | Cybersecurity & Python</h1>
+### 🔐 IT and Cybersecurity Project Portfolio
 
-<table>
-<tr>
-<td valign="top" width="55%">
+#### ⚠️ Vulnerability Management Projects
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-I’m Will. I write Python and explore cybersecurity.  
-Current focus:  
+#### 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+### 🌙 Learning
 - Python scripting for security and automation  
 - Network security and some penetration testing  
 - Ethical hacking labs on TryHackMe and HackTheBox  
 
-### Tools  
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-gray?logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white" />
+### 🧰 Tools & Tech Stack
 
-</td>
-<td valign="top" width="45%" align="center">
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-gray?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📊 My Statistics
+
+<table>
+<tr>
+<td align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tohru-art&show_icons=true&theme=radical" />
-<br>
+
+</td>
+<td align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohru-art&theme=radical" />
 
 </td>
@@ -37,6 +52,9 @@ Current focus:
   <img src="https://komarev.com/ghpvc/?username=Tohru-art&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
+---
+
+## 🔗 Contact me
 
 <p align="center">
   <a href="https://will-garlens-pierre.com">Website</a> • 
