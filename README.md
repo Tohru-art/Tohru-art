@@ -1,28 +1,36 @@
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/will-garlens-pierre/">
-    Will-Garlens Pierre
-  </a>'s IT and Cybersecurity Project Portfolio 🔐
+  <a href="https://www.linkedin.com/in/will-garlens-pierre/">Will‑Garlens Pierre</a>'s IT and Cybersecurity Project Portfolio 🔐
 </h1>
 
-
-<p align="center">
+<p align="">
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 </p>
 
 
-#### ⚠️ Vulnerability Management Projects
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+### ⚠️ Vulnerability Management Projects
 
-#### 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**  
+  Baseline vulnerability management process with asset scoping, scan scheduling, and remediation tracking modeled after enterprise workflows.
 
-### 🌙 Learning
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  Automates patching and configuration fixes across multiple hosts, demonstrating how scripting can reduce mean time to remediation.
+
+### 🚨 Threat Hunting & Security Operations
+
+- **[Threat Hunting Scenario – Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+  Walkthrough of building a hunt hypothesis, querying logs for Tor activity, and documenting findings the way a SOC analyst would.
+
+---
+
+## 🌙 Learning
+
 - Python scripting for security and automation  
 - Network security and some penetration testing  
 - Ethical hacking labs on TryHackMe and HackTheBox  
 
-### 🧰 Tools & Tech Stack
+---
+
+## 🧰 Tools & Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
@@ -57,9 +65,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 </p>
 
 ---
-<h1 align="center">
-Contact me
-</h1>
+
+## 📬 Contact Me
 
 <p align="center">
   <a href="https://will-garlens-pierre.com">Website</a> • 
