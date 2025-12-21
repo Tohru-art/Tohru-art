@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- Replace with your own hosted image if you download/edit it -->
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/e03bb70d-2fe6-4aed-afa5-0f65d324a720.png" alt="lofi cyber banner" />
-</p>
-
 
 <h1 align="center">
   <a href="https://www.linkedin.com/in/will-garlens-pierre/">Will‑Garlens Pierre</a>'s IT and Cybersecurity Project Portfolio 🔐
