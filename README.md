@@ -34,7 +34,7 @@ Built a hunt hypothesis, queried MDE logs for Tor activity, and documented findi
 ### KQL Detection Library ⚙️ *(In Progress)*
 > KQL · Microsoft Sentinel · Microsoft Defender for Endpoint · MITRE ATT&CK
 
-Personal detection rule library built from real Log(N) Pacific investigations. Adding rules actively — check back soon.
+Personal detection rule library built from real Log(N) Pacific investigations. Adding rules actively (check back soon!)
 
 ---
 
