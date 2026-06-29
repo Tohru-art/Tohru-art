@@ -48,7 +48,7 @@ Conducted hypothesis-driven threat hunting to identify potential anonymous brows
 
 ---
 
-### [Threat Hunt: Second Vector](https://github.com/yourusername/second-vector-investigation)
+### [Threat Hunt: Second Vector]([https://github.com/yourusername/second-vector-investigation](https://github.com/Tohru-art/HUNT-08-Second-Vector))
 
 > Microsoft 365 · Microsoft Entra ID · Microsoft Sentinel · KQL · Business Email Compromise
 
